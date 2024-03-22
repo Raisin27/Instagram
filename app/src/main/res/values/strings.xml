@@ -10,6 +10,11 @@
     <string name="str8_grey">harburgery</string>
     <string name="str9_light">bchanthu</string>
     <string name="str10_sad">louisvuitton</string>
+    <string name="profile">Profile</string>
+    <string name="new_post">Add Post</string>
+    <string name="home">Home</string>
+    <string name="search">Search\n</string>
+    <string name="reel">Reel</string>
 
 
 </resources>
